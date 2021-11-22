@@ -1,0 +1,23 @@
+{
+    "Mover": {
+        "checkpoints": [
+            {
+                "steps": 2618,
+                "file_path": "results\\m-23\\Mover\\Mover-2618.nn",
+                "reward": null,
+                "creation_time": 1628069350.7597091
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 2618,
+            "file_path": "results\\m-23\\Mover.nn",
+            "reward": null,
+            "creation_time": 1628069350.7597091
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.1.0",
+        "mlagents_version": "0.21.0",
+        "tensorflow_version": "2.3.3"
+    }
+}
